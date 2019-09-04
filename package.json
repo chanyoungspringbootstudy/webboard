@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^12.1.1",
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-dev-utils": "^12.0.1",
+    "@ckeditor/ckeditor5-theme-lark": "^14.0.0",
+    "raw-loader": "^3.0.0"
+  }
+}
